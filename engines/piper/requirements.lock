@@ -1,0 +1,32 @@
+# Piper motoru: Linux x86_64 / CPython 3.12 için sabit sürümler ve wheel SHA-256 özetleri (PyPI).
+annotated-types==0.8.0 \
+    --hash=sha256:f072f4d804ea359e4eaf198b1af7a8b0943881a87f31bb764f8bf219bb9419e0
+flatbuffers==25.12.19 \
+    --hash=sha256:7634f50c427838bb021c2d66a3d1168e9d199b0607e6329399f04846d42e20b4
+numpy==2.5.4 \
+    --hash=sha256:fbde6962867ee75b48b0ee29b2b9372ec5d617799dbaf38e82dc0596f2f7738a
+onnxruntime==1.31.0 \
+    --hash=sha256:5e129d6c56abd53e659cb70f00a108d6824086470ff99c2e47a82e5786563db3
+packaging==26.3 \
+    --hash=sha256:d7193f7c8e4e93f444fde0262bf90af30e16fa0ad0ad44cb553c87339b23cd1c
+pathvalidate==3.3.1 \
+    --hash=sha256:5263baab691f8e1af96092fa5137ee17df5bdfbd6cff1fcac4d6ef4bc2e1735f
+piper-tts==1.8.0 \
+    --hash=sha256:25b4d3f31ff70c8fa7151908e00aaa5650cbdf16bca8fcf21299f3941b89a7d3
+protobuf==7.36.2 \
+    --hash=sha256:89f23aa53c24553a2416fd4fd1ec06f74fa42b14b546d8883128813f775bbfd2 \
+    --hash=sha256:bdb3a345d48db958e6ce1f18e508beb0cc981d64f24088427549c866cd039f1e
+pydantic==2.14.1 \
+    --hash=sha256:9195d967ec791692a04438115466764fb8b9a27b31f14a760437694f40d6b454
+pydantic-core==2.50.1 \
+    --hash=sha256:93ba4e9d8210d941c200431a56b2c0400b131865947903937ed3ec5404307d2e
+pyopenjtalk-plus==0.4.1.post10 \
+    --hash=sha256:d5ad80a032b9bb8cbc2c8e89f6022a1b1ed27edfb4eeb61ec66ece0d4df417cb
+sudachidict-core==20261015 \
+    --hash=sha256:6d7774b518e64c88a0578975d569590b3dae3b3c834f166486aa611879ee9d98
+sudachipy==0.7.0 \
+    --hash=sha256:dfc90631aa2276d2165e1995bc94b56c9f5bc27b875f43fb7d67e4a3b7346d4f
+typing-extensions==4.16.0 \
+    --hash=sha256:481caa481374e813c1b176ada14e97f1f67a4539ce9cfeb3f350d78d6370c2e8
+typing-inspection==0.4.4 \
+    --hash=sha256:65b8397ba37ccbce054456aaccddfc91e6e3083c92824df348d96ca832f3f147

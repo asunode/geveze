@@ -1,0 +1,7 @@
+# Geveze arayüzü (sistem PySide6 yoksa): Linux x86_64 / CPython 3.12, PyPI.
+pyside6-addons==6.10.2 \
+    --hash=sha256:030a851163b51dbf0063be59e9ddb6a9e760bde89a28e461ccc81a224d286eaf
+pyside6-essentials==6.10.2 \
+    --hash=sha256:660aea45bfa36f1e06f799b934c2a7df963bd31abc5083e8bb8a5bfaef45686b
+shiboken6==6.10.2 \
+    --hash=sha256:ace0790032d9cb0adda644b94ee28d59410180d9773643bb6cf8438c361987ad

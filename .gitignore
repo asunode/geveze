@@ -1,0 +1,28 @@
+# İzin listesi: depoya yalnızca aşağıda açıkça izin verilen yollar girer.
+/*
+!/.gitignore
+!/README.md
+!/README.tr.md
+!/LICENSE
+!/setup.sh
+!/run.sh
+!/requirements-gui.lock
+!/geveze/
+!/engines/
+!/tests/
+!/docs/
+
+# İzinli klasörlerin içinde de asla izlenmeyecekler
+__pycache__/
+*.py[cod]
+.venv/
+.cache/
+*.wav
+*.part
+*.onnx
+*.onnx.json
+*.pt
+*.zip
+engines/*/models/*
+!engines/*/models/manifest.json
+engines/vpool/

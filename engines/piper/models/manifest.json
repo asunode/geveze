@@ -1,0 +1,342 @@
+{
+  "repository": "rhasspy/piper-voices",
+  "revision": "5041a7a49ae5b3a0f30e6837769eb03fdbb231bd",
+  "files": [
+    {
+      "path": "models/en_US-amy-medium.onnx",
+      "sha256": "b3a6e47b57b8c7fbe6a0ce2518161a50f59a9cdd8a50835c02cb02bdd6206c18",
+      "size": 63201294,
+      "source": "https://huggingface.co/rhasspy/piper-voices/resolve/5041a7a49ae5b3a0f30e6837769eb03fdbb231bd/en/en_US/amy/medium/en_US-amy-medium.onnx"
+    },
+    {
+      "path": "models/en_US-amy-medium.onnx.json",
+      "sha256": "95a23eb4d42909d38df73bb9ac7f45f597dbfcde2d1bf9526fdeaf5466977d77",
+      "size": 4882,
+      "source": "https://huggingface.co/rhasspy/piper-voices/resolve/5041a7a49ae5b3a0f30e6837769eb03fdbb231bd/en/en_US/amy/medium/en_US-amy-medium.onnx.json"
+    },
+    {
+      "path": "models/MODEL_CARD",
+      "sha256": "858419ea604c427ff2e9918556345667eb46397da3c965de75f4f7f0bb50a962",
+      "size": 284,
+      "source": "https://huggingface.co/rhasspy/piper-voices/resolve/5041a7a49ae5b3a0f30e6837769eb03fdbb231bd/en/en_US/amy/medium/MODEL_CARD"
+    },
+    {
+      "path": "models/en_GB-jenny_dioco-medium/en_GB-jenny_dioco-medium.onnx",
+      "sha256": "469c630d209e139dd392a66bf4abde4ab86390a0269c1e47b4e5d7ce81526b01",
+      "size": 63201294,
+      "source": "https://huggingface.co/rhasspy/piper-voices/resolve/5041a7a49ae5b3a0f30e6837769eb03fdbb231bd/en/en_GB/jenny_dioco/medium/en_GB-jenny_dioco-medium.onnx"
+    },
+    {
+      "path": "models/en_GB-jenny_dioco-medium/en_GB-jenny_dioco-medium.onnx.json",
+      "sha256": "a9a7a93a317c9a3cb6563e37eb057df9ef09c06188a8a4341b0fcb58cba54dd4",
+      "size": 4895,
+      "source": "https://huggingface.co/rhasspy/piper-voices/resolve/5041a7a49ae5b3a0f30e6837769eb03fdbb231bd/en/en_GB/jenny_dioco/medium/en_GB-jenny_dioco-medium.onnx.json"
+    },
+    {
+      "path": "models/en_GB-jenny_dioco-medium/MODEL_CARD",
+      "sha256": "bc8aec32196ab14f46260ab6e002cf004b0793ddd7886011145fe00106e20d45",
+      "size": 298,
+      "source": "https://huggingface.co/rhasspy/piper-voices/resolve/5041a7a49ae5b3a0f30e6837769eb03fdbb231bd/en/en_GB/jenny_dioco/medium/MODEL_CARD"
+    },
+    {
+      "path": "models/en_US-hfc_female-medium/en_US-hfc_female-medium.onnx",
+      "sha256": "914c473788fc1fa8b63ace1cdcdb44588f4ae523d3ab37df1536616835a140b7",
+      "size": 63201294,
+      "source": "https://huggingface.co/rhasspy/piper-voices/resolve/5041a7a49ae5b3a0f30e6837769eb03fdbb231bd/en/en_US/hfc_female/medium/en_US-hfc_female-medium.onnx"
+    },
+    {
+      "path": "models/en_US-hfc_female-medium/en_US-hfc_female-medium.onnx.json",
+      "sha256": "03f1fa0622b80463283592d97aca9f6e89aec345a5c56b7257723e0093c58b6c",
+      "size": 5033,
+      "source": "https://huggingface.co/rhasspy/piper-voices/resolve/5041a7a49ae5b3a0f30e6837769eb03fdbb231bd/en/en_US/hfc_female/medium/en_US-hfc_female-medium.onnx.json"
+    },
+    {
+      "path": "models/en_US-hfc_female-medium/MODEL_CARD",
+      "sha256": "108e287f2128ef724e67b0e7b5f886c3f9b5ec7eaa0e07554b815d7d683c4fc3",
+      "size": 354,
+      "source": "https://huggingface.co/rhasspy/piper-voices/resolve/5041a7a49ae5b3a0f30e6837769eb03fdbb231bd/en/en_US/hfc_female/medium/MODEL_CARD"
+    },
+    {
+      "path": "models/en_US-ryan-high/en_US-ryan-high.onnx",
+      "sha256": "b3990d7606e183ec8dbfba70a4607074f162de1a0c412e0180d1ff60bb154eca",
+      "size": 120786792,
+      "source": "https://huggingface.co/rhasspy/piper-voices/resolve/5041a7a49ae5b3a0f30e6837769eb03fdbb231bd/en/en_US/ryan/high/en_US-ryan-high.onnx"
+    },
+    {
+      "path": "models/en_US-ryan-high/en_US-ryan-high.onnx.json",
+      "sha256": "c6d3b98f08315cb4bebf0d49d50fc4ff491b503c64b940cd3d5ca28543b48011",
+      "size": 4166,
+      "source": "https://huggingface.co/rhasspy/piper-voices/resolve/5041a7a49ae5b3a0f30e6837769eb03fdbb231bd/en/en_US/ryan/high/en_US-ryan-high.onnx.json"
+    },
+    {
+      "path": "models/en_US-ryan-high/MODEL_CARD",
+      "sha256": "7c3b337dd4e96c3f311f476118b15d93867aefa4bee54263e250c45f759fad0d",
+      "size": 265,
+      "source": "https://huggingface.co/rhasspy/piper-voices/resolve/5041a7a49ae5b3a0f30e6837769eb03fdbb231bd/en/en_US/ryan/high/MODEL_CARD"
+    },
+    {
+      "path": "models/de_DE-thorsten-high/de_DE-thorsten-high.onnx",
+      "sha256": "9df1c43c61149ef9b39e618e2b861fbe41e1fcea9390b2dac62e8761573ea4f1",
+      "size": 113895201,
+      "source": "https://huggingface.co/rhasspy/piper-voices/resolve/5041a7a49ae5b3a0f30e6837769eb03fdbb231bd/de/de_DE/thorsten/high/de_DE-thorsten-high.onnx"
+    },
+    {
+      "path": "models/de_DE-thorsten-high/de_DE-thorsten-high.onnx.json",
+      "sha256": "6de734444e4c3f9e33b7ebe2746dbc19b71e85f613e79c65acf623200b99a76a",
+      "size": 4875,
+      "source": "https://huggingface.co/rhasspy/piper-voices/resolve/5041a7a49ae5b3a0f30e6837769eb03fdbb231bd/de/de_DE/thorsten/high/de_DE-thorsten-high.onnx.json"
+    },
+    {
+      "path": "models/de_DE-thorsten-high/MODEL_CARD",
+      "sha256": "a49334fc36286c9d67f007605969a33f416cc4e35eb770c9c7f716d44711fc3a",
+      "size": 279,
+      "source": "https://huggingface.co/rhasspy/piper-voices/resolve/5041a7a49ae5b3a0f30e6837769eb03fdbb231bd/de/de_DE/thorsten/high/MODEL_CARD"
+    },
+    {
+      "path": "models/de_DE-kerstin-low/de_DE-kerstin-low.onnx",
+      "sha256": "d352a7641892cebf2903859af94e9ba81a141110215fe3943bcda7f7da401b7a",
+      "size": 63104526,
+      "source": "https://huggingface.co/rhasspy/piper-voices/resolve/5041a7a49ae5b3a0f30e6837769eb03fdbb231bd/de/de_DE/kerstin/low/de_DE-kerstin-low.onnx"
+    },
+    {
+      "path": "models/de_DE-kerstin-low/de_DE-kerstin-low.onnx.json",
+      "sha256": "56e708556b7b9b7a53c4f8957e021421e69f11a600962bba554cffbe72cf2d47",
+      "size": 4158,
+      "source": "https://huggingface.co/rhasspy/piper-voices/resolve/5041a7a49ae5b3a0f30e6837769eb03fdbb231bd/de/de_DE/kerstin/low/de_DE-kerstin-low.onnx.json"
+    },
+    {
+      "path": "models/de_DE-kerstin-low/MODEL_CARD",
+      "sha256": "7019006374a5fe5358186d5f3333e9f904385e7bdfbb68bc85dafce1a3cddae5",
+      "size": 272,
+      "source": "https://huggingface.co/rhasspy/piper-voices/resolve/5041a7a49ae5b3a0f30e6837769eb03fdbb231bd/de/de_DE/kerstin/low/MODEL_CARD"
+    },
+    {
+      "path": "models/ja_JP-hi_fi_captain-medium/ja_JP-hi_fi_captain-medium.onnx",
+      "sha256": "5eafa1610fc7a0ff2e7fde9cbe0972d876266e23d8db331727eb2466f19460eb",
+      "size": 76753841,
+      "source": "https://huggingface.co/rhasspy/piper-voices/resolve/5041a7a49ae5b3a0f30e6837769eb03fdbb231bd/ja/ja_JP/hi_fi_captain/medium/ja_JP-hi_fi_captain-medium.onnx"
+    },
+    {
+      "path": "models/ja_JP-hi_fi_captain-medium/ja_JP-hi_fi_captain-medium.onnx.json",
+      "sha256": "fe9aeda38318607ba114926d1d7ee7d56295f9af3774a99a42b36f4354cabf27",
+      "size": 5301,
+      "source": "https://huggingface.co/rhasspy/piper-voices/resolve/5041a7a49ae5b3a0f30e6837769eb03fdbb231bd/ja/ja_JP/hi_fi_captain/medium/ja_JP-hi_fi_captain-medium.onnx.json"
+    },
+    {
+      "path": "models/ja_JP-hi_fi_captain-medium/MODEL_CARD",
+      "sha256": "26dcad3474c39c7fc394c1e57e60121c90832afa9f43e7942faa7c51e1e81905",
+      "size": 361,
+      "source": "https://huggingface.co/rhasspy/piper-voices/resolve/5041a7a49ae5b3a0f30e6837769eb03fdbb231bd/ja/ja_JP/hi_fi_captain/medium/MODEL_CARD"
+    },
+    {
+      "path": "models/fr_FR-upmc-medium/fr_FR-upmc-medium.onnx",
+      "sha256": "9abb3800c199148897a9ed64e100d224f3de83579f100044174ad19418f1786f",
+      "size": 76733615,
+      "source": "https://huggingface.co/rhasspy/piper-voices/resolve/5041a7a49ae5b3a0f30e6837769eb03fdbb231bd/fr/fr_FR/upmc/medium/fr_FR-upmc-medium.onnx"
+    },
+    {
+      "path": "models/fr_FR-upmc-medium/fr_FR-upmc-medium.onnx.json",
+      "sha256": "e8636ec15dfd5d72db37a02cb5320a20f2b8d339f2a0e4337da64c58a33a5868",
+      "size": 4996,
+      "source": "https://huggingface.co/rhasspy/piper-voices/resolve/5041a7a49ae5b3a0f30e6837769eb03fdbb231bd/fr/fr_FR/upmc/medium/fr_FR-upmc-medium.onnx.json"
+    },
+    {
+      "path": "models/fr_FR-upmc-medium/MODEL_CARD",
+      "sha256": "cf1ac7309e0e04bb159b7e6ae80bc8f66bfce9bdfb3e62ae93a6f57e210ab98a",
+      "size": 316,
+      "source": "https://huggingface.co/rhasspy/piper-voices/resolve/5041a7a49ae5b3a0f30e6837769eb03fdbb231bd/fr/fr_FR/upmc/medium/MODEL_CARD"
+    },
+    {
+      "path": "models/sl_SI-artur-medium/sl_SI-artur-medium.onnx",
+      "sha256": "9222ed93ef425524ad4be0b083369af8ea8db18455576a6016b154192f4ed38c",
+      "size": 63200492,
+      "source": "https://huggingface.co/rhasspy/piper-voices/resolve/5041a7a49ae5b3a0f30e6837769eb03fdbb231bd/sl/sl_SI/artur/medium/sl_SI-artur-medium.onnx"
+    },
+    {
+      "path": "models/sl_SI-artur-medium/sl_SI-artur-medium.onnx.json",
+      "sha256": "741283430f1fa2be5c61717c6f1fe795a7b9f537491927340dd12f90f3b3cc04",
+      "size": 4970,
+      "source": "https://huggingface.co/rhasspy/piper-voices/resolve/5041a7a49ae5b3a0f30e6837769eb03fdbb231bd/sl/sl_SI/artur/medium/sl_SI-artur-medium.onnx.json"
+    },
+    {
+      "path": "models/sl_SI-artur-medium/MODEL_CARD",
+      "sha256": "fe8431d0830a41260379ba7f8813e3dfb515c02684a0663702f45e047e31bba9",
+      "size": 329,
+      "source": "https://huggingface.co/rhasspy/piper-voices/resolve/5041a7a49ae5b3a0f30e6837769eb03fdbb231bd/sl/sl_SI/artur/medium/MODEL_CARD"
+    }
+  ],
+  "default_voice": "en_US-amy-medium",
+  "voices": {
+    "en_GB-jenny_dioco-medium": {
+      "model": "models/en_GB-jenny_dioco-medium/en_GB-jenny_dioco-medium.onnx",
+      "config": "models/en_GB-jenny_dioco-medium/en_GB-jenny_dioco-medium.onnx.json",
+      "model_card": "models/en_GB-jenny_dioco-medium/MODEL_CARD",
+      "language": "en_GB",
+      "quality": "medium",
+      "sample_rate": 22050,
+      "revision": "5041a7a49ae5b3a0f30e6837769eb03fdbb231bd",
+      "piper_version": "1.0.0",
+      "gender": "female"
+    },
+    "en_US-hfc_female-medium": {
+      "model": "models/en_US-hfc_female-medium/en_US-hfc_female-medium.onnx",
+      "config": "models/en_US-hfc_female-medium/en_US-hfc_female-medium.onnx.json",
+      "model_card": "models/en_US-hfc_female-medium/MODEL_CARD",
+      "language": "en_US",
+      "quality": "medium",
+      "sample_rate": 22050,
+      "revision": "5041a7a49ae5b3a0f30e6837769eb03fdbb231bd",
+      "piper_version": "1.0.0",
+      "gender": "female"
+    },
+    "en_US-amy-medium": {
+      "model": "models/en_US-amy-medium.onnx",
+      "config": "models/en_US-amy-medium.onnx.json",
+      "model_card": "models/MODEL_CARD",
+      "language": "en_US",
+      "quality": "medium",
+      "sample_rate": 22050,
+      "revision": "5041a7a49ae5b3a0f30e6837769eb03fdbb231bd",
+      "piper_version": "1.0.0",
+      "gender": "female"
+    },
+    "en_US-ryan-high": {
+      "model": "models/en_US-ryan-high/en_US-ryan-high.onnx",
+      "config": "models/en_US-ryan-high/en_US-ryan-high.onnx.json",
+      "model_card": "models/en_US-ryan-high/MODEL_CARD",
+      "language": "en_US",
+      "quality": "high",
+      "sample_rate": 22050,
+      "revision": "5041a7a49ae5b3a0f30e6837769eb03fdbb231bd",
+      "piper_version": "0.2.0",
+      "gender": "male"
+    },
+    "de_DE-thorsten-high": {
+      "model": "models/de_DE-thorsten-high/de_DE-thorsten-high.onnx",
+      "config": "models/de_DE-thorsten-high/de_DE-thorsten-high.onnx.json",
+      "model_card": "models/de_DE-thorsten-high/MODEL_CARD",
+      "language": "de_DE",
+      "quality": "high",
+      "sample_rate": 22050,
+      "revision": "5041a7a49ae5b3a0f30e6837769eb03fdbb231bd",
+      "piper_version": "1.0.0",
+      "gender": "male",
+      "license": "CC0-1.0",
+      "license_source": "https://huggingface.co/rhasspy/piper-voices/resolve/5041a7a49ae5b3a0f30e6837769eb03fdbb231bd/de/de_DE/thorsten/high/MODEL_CARD",
+      "license_note": "Official MODEL_CARD lists the dataset license as CC0; collection repository metadata lists MIT."
+    },
+    "de_DE-kerstin-low": {
+      "model": "models/de_DE-kerstin-low/de_DE-kerstin-low.onnx",
+      "config": "models/de_DE-kerstin-low/de_DE-kerstin-low.onnx.json",
+      "model_card": "models/de_DE-kerstin-low/MODEL_CARD",
+      "language": "de_DE",
+      "quality": "low",
+      "sample_rate": 16000,
+      "revision": "5041a7a49ae5b3a0f30e6837769eb03fdbb231bd",
+      "piper_version": "0.2.0",
+      "gender": "female",
+      "license": "CC0-1.0",
+      "license_source": "https://huggingface.co/rhasspy/piper-voices/resolve/5041a7a49ae5b3a0f30e6837769eb03fdbb231bd/de/de_DE/kerstin/low/MODEL_CARD",
+      "license_note": "Official MODEL_CARD lists the dataset license as CC0; collection repository metadata lists MIT."
+    },
+    "ja_JP-hi_fi_captain-medium": {
+      "model": "models/ja_JP-hi_fi_captain-medium/ja_JP-hi_fi_captain-medium.onnx",
+      "config": "models/ja_JP-hi_fi_captain-medium/ja_JP-hi_fi_captain-medium.onnx.json",
+      "model_card": "models/ja_JP-hi_fi_captain-medium/MODEL_CARD",
+      "language": "ja_JP",
+      "quality": "medium",
+      "sample_rate": 22050,
+      "revision": "5041a7a49ae5b3a0f30e6837769eb03fdbb231bd",
+      "piper_version": "1.6.0",
+      "num_speakers": 2,
+      "speaker_id_map": {
+        "female": 0,
+        "male": 1
+      },
+      "default_speaker_id": 0,
+      "phoneme_type": "japanese",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_source": "https://huggingface.co/rhasspy/piper-voices/resolve/5041a7a49ae5b3a0f30e6837769eb03fdbb231bd/ja/ja_JP/hi_fi_captain/medium/MODEL_CARD",
+      "license_note": "Official MODEL_CARD states the dataset license; collection repository metadata lists MIT.",
+      "deprecated_model_id": "ja_JA-hi_fi_captain-medium",
+      "required_dependencies": [
+        "piper-tts[ja]==1.8.0",
+        "pyopenjtalk-plus>=0.4,<1"
+      ],
+      "installed_japanese_dependencies": {
+        "typing-inspection": "0.4.4",
+        "pydantic_core": "2.50.1",
+        "annotated-types": "0.8.0",
+        "pyopenjtalk-plus": "0.4.1.post10",
+        "typing_extensions": "4.16.0",
+        "SudachiPy": "0.7.0",
+        "pydantic": "2.14.1",
+        "sudachidict-core": "20261015"
+      },
+      "dictionary_path": ".venv/lib/python3.12/site-packages/pyopenjtalk/dictionary"
+    },
+    "fr_FR-upmc-medium": {
+      "model": "models/fr_FR-upmc-medium/fr_FR-upmc-medium.onnx",
+      "config": "models/fr_FR-upmc-medium/fr_FR-upmc-medium.onnx.json",
+      "model_card": "models/fr_FR-upmc-medium/MODEL_CARD",
+      "language": "fr_FR",
+      "quality": "medium",
+      "sample_rate": 22050,
+      "revision": "5041a7a49ae5b3a0f30e6837769eb03fdbb231bd",
+      "piper_version": "1.0.0",
+      "num_speakers": 2,
+      "speaker_id_map": {
+        "jessica": 0,
+        "pierre": 1
+      },
+      "default_speaker_id": 0,
+      "phoneme_type": "espeak",
+      "espeak_voice": "fr",
+      "speaker_genders": {
+        "jessica": "female",
+        "pierre": "male"
+      },
+      "license": "CC-BY-SA-4.0",
+      "license_source": "https://huggingface.co/rhasspy/piper-voices/resolve/5041a7a49ae5b3a0f30e6837769eb03fdbb231bd/fr/fr_FR/upmc/medium/MODEL_CARD",
+      "license_note": "Official MODEL_CARD states the dataset license; collection repository metadata lists MIT.",
+      "listening_acceptance": "pending_user_review"
+    },
+    "sl_SI-artur-medium": {
+      "model": "models/sl_SI-artur-medium/sl_SI-artur-medium.onnx",
+      "config": "models/sl_SI-artur-medium/sl_SI-artur-medium.onnx.json",
+      "model_card": "models/sl_SI-artur-medium/MODEL_CARD",
+      "language": "sl_SI",
+      "quality": "medium",
+      "sample_rate": 22050,
+      "revision": "5041a7a49ae5b3a0f30e6837769eb03fdbb231bd",
+      "piper_version": "1.0.0",
+      "num_speakers": 1,
+      "speaker_id_map": {},
+      "default_speaker_id": 0,
+      "phoneme_type": "espeak",
+      "espeak_voice": "sl",
+      "license": "CC-BY-4.0",
+      "license_source": "https://huggingface.co/rhasspy/piper-voices/resolve/5041a7a49ae5b3a0f30e6837769eb03fdbb231bd/sl/sl_SI/artur/medium/MODEL_CARD",
+      "license_note": "Official model card states dataset CC BY 4.0; linked dataset README instead declares CC BY 3.0. This discrepancy is preserved, not resolved as a single definitive license. Upstream files are unmodified.",
+      "dataset_license": "CC-BY-3.0",
+      "dataset_revision": "feb6181d00291140904ed7662d8689f45b099002",
+      "dataset_card": "https://huggingface.co/datasets/ppisljar/artur_studio_tts/blob/feb6181d00291140904ed7662d8689f45b099002/README.md",
+      "attribution": {
+        "trained_by": "@ppisljar",
+        "trainer_url": "https://github.com/ppisljar",
+        "dataset": "ppisljar/artur_studio_tts",
+        "dataset_url": "https://huggingface.co/datasets/ppisljar/artur_studio_tts/",
+        "original_resource": "Verdonik, Darinka; et al., 2023, ASR database ARTUR 1.0 (audio), CLARIN.SI, ISSN 2820-4042",
+        "original_resource_url": "http://hdl.handle.net/11356/1776",
+        "license_urls": [
+          "https://creativecommons.org/licenses/by/4.0/",
+          "https://creativecommons.org/licenses/by/3.0/"
+        ],
+        "conditions_summary": "Credit supplied creators and source, link license, indicate changes where applicable; do not imply endorsement. Preserve source notices.",
+        "local_changes": "None to ONNX, JSON or MODEL_CARD; only local voice registration and testing."
+      },
+      "dependencies_added": [],
+      "listening_acceptance": "pending_user_review"
+    }
+  }
+}
