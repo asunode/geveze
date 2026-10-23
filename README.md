@@ -91,6 +91,19 @@ unresolved license questions. See [Licenses](#licenses).
 
 Details: [docs/architecture.md](docs/architecture.md).
 
+## Project credits — human vision, AI collaboration
+
+*GEVEZE was imagined and directed by a person, and brought to life through a deliberate collaboration with AI assistants.*
+
+| Contributor | Contribution |
+| --- | --- |
+| **Sinan Kurtoğlu · ASUNODE** — Creator & project lead | Conceived GEVEZE as a local, reusable voice-message library for the ASUNODE ecosystem. Set the product goals and boundaries, chose the languages and voices, tested the results by listening and in daily use, and made the acceptance and release decisions. |
+| **ChatGPT · OpenAI** — Architecture & technical guidance | Helped shape the development plan and engineering tasks, coordinated the division of responsibilities between DAI and VDAI, researched language and TTS options, and reviewed test evidence, licensing questions, documentation, and release readiness. |
+| **VDAI** — Voice infrastructure & verification | Prepared and validated the local EMA Lightning and Piper engine stack; added and tested voice models, speaker selection, Unicode handling, and external application calls; documented dependencies, model sources, hashes, and license considerations. |
+| **DAI** — Application engineering & distribution | Built the PySide6 application, archive and playback workflow, implemented the language/voice integrations, automated tests and safeguards, and prepared the portable installer, real application screenshots, documentation, and GitHub release. |
+
+**How the project was developed:** The ASUNODE project lead provided the purpose, constraints, hands-on evaluation, and final decisions. AI assistants contributed implementation, investigation, testing, and technical review in clearly separated roles. The TTS engines and voice models are independent third-party works, not creations of this team; their authors and terms are documented in [third-party licenses](docs/third-party-licenses.md).
+
 ## Installation
 
 Requirements: Ubuntu on x86_64 (tested on 26.04), `git`, an internet connection during
