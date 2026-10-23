@@ -85,6 +85,19 @@ Kerstin'in lisans durumu açıklığa kavuşmamıştır. Bkz. [Lisanslar](#lisan
 
 Ayrıntılar: [docs/architecture.md](docs/architecture.md) (İngilizce).
 
+## Projeye katkıda bulunanlar — insan vizyonu ve yapay zekâ iş birliği
+
+*GEVEZE'nin fikri ve yönü insana ait; uygulamaya dönüşmesi, görevleri ayrılmış yapay zekâ yardımcılarıyla yürütülen ortak bir çalışmanın sonucudur.*
+
+| Katkı sağlayan | Sorumluluk ve katkı |
+| --- | --- |
+| **Sinan Kurtoğlu · ASUNODE** — Proje sahibi ve tasarımcısı | GEVEZE'yi ASUNODE ekosistemi için yerel, yeniden kullanılabilir sesli mesaj kütüphanesi olarak tasarladı. Hedefleri ve çalışma sınırlarını belirledi; dilleri ve sesleri seçti; kayıtları dinleyerek ve uygulamayı kullanarak değerlendirdi; kabul ve yayın kararlarını verdi. |
+| **ChatGPT · OpenAI** — Mimari ve teknik rehberlik | Geliştirme planının ve aşamalı görevlerin oluşturulmasına katkı sundu; DAI ile VDAI'nin sorumluluklarını ayrıştırdı; dil ve TTS seçeneklerini araştırdı; test bulgularını, lisans konularını, belgeleri ve yayın hazırlığını değerlendirdi. |
+| **VDAI** — Ses altyapısı ve teknik doğrulama | Yerel EMA Lightning ve Piper altyapısını hazırlayıp doğruladı; ses modellerini, konuşmacı seçimini, Unicode işlemlerini ve harici uygulama çağrılarını test etti; bağımlılıkları, model kaynaklarını, dosya özetlerini ve lisans değerlendirmelerini belgelendirdi. |
+| **DAI** — Uygulama geliştirme ve dağıtım | PySide6 uygulamasını, ses arşivini ve oynatma işlevlerini geliştirdi; dil ve ses entegrasyonlarını, otomatik testleri ve veri korumalarını uyguladı; taşınabilir kurulumu, gerçek ekran görüntülerini, belgeleri ve GitHub dağıtımını hazırladı. |
+
+**Çalışma anlayışı:** ASUNODE proje hedefini, gereksinimleri, gerçek kullanım değerlendirmesini ve son kararları üstlendi. Yapay zekâ yardımcıları, birbirinden ayrılmış görevlerle geliştirme, araştırma, test ve teknik denetime katkı sağladı. EMA Lightning, Piper ve ses modelleri ise bu ekibin ürünü değil, bağımsız üçüncü taraf çalışmalarıdır; geliştiricileri ve kullanım koşulları [üçüncü taraf lisansları](docs/third-party-licenses.md) belgesinde belirtilmiştir.
+
 ## Kurulum
 
 Gereksinimler: x86_64 Ubuntu (26.04 üzerinde test edildi), `git`, kurulum sırasında
